@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4ca5547b-ae9b-474c-8da5-af8617609e16" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.chenglongzu.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.chenglongzu.github.io.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/videos/2022-03-28 21-43-24_Trim.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/assets/videos/Game-Demo-Video.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652774850031</updated>
       <workItem from="1652774856893" duration="710000" />
-      <workItem from="1652777126408" duration="227000" />
+      <workItem from="1652777126408" duration="1648000" />
     </task>
     <servers />
   </component>
@@ -44,6 +45,17 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ca5547b-ae9b-474c-8da5-af8617609e16" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/videos/2022-03-28 21-43-24 00_00_16-00_04_58.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.chenglongzu.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.chenglongzu.github.io.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +34,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652774850031</updated>
       <workItem from="1652774856893" duration="710000" />
+      <workItem from="1652777126408" duration="227000" />
     </task>
     <servers />
   </component>
@@ -41,7 +42,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

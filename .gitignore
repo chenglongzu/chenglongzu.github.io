@@ -1,0 +1,18 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
+#
+
+# Visual Studio cache directory
+.vs/
+
+
+*.mp4
+
+
+# Builds
+*.apk
+
+# Crashlytics generated file
+crashlytics-build.properties
+
